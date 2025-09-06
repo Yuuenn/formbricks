@@ -182,6 +182,7 @@ export const AVAILABLE_LOCALES: TUserLocale[] = [
   "zh-Hant-TW",
   "pt-PT",
   "ro-RO",
+  "zh-CN",
 ];
 
 // Billing constants

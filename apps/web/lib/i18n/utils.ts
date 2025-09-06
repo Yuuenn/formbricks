@@ -141,6 +141,7 @@ export const appLanguages = [
       "zh-Hant-TW": "英文 (美國)",
       "pt-PT": "Inglês (EUA)",
       "ro-RO": "Engleză (SUA)",
+      "zh-CN": "英语（美国）",
     },
   },
   {
@@ -153,6 +154,7 @@ export const appLanguages = [
       "zh-Hant-TW": "德語",
       "pt-PT": "Alemão",
       "ro-RO": "Germană",
+      "zh-CN": "德语",
     },
   },
   {
@@ -165,6 +167,7 @@ export const appLanguages = [
       "zh-Hant-TW": "葡萄牙語 (巴西)",
       "pt-PT": "Português (Brasil)",
       "ro-RO": "Portugheză (Brazilia)",
+      "zh-CN": "葡萄牙语（巴西）",
     },
   },
   {
@@ -177,6 +180,7 @@ export const appLanguages = [
       "zh-Hant-TW": "法語",
       "pt-PT": "Francês",
       "ro-RO": "Franceză",
+      "zh-CN": "法语",
     },
   },
   {
@@ -189,6 +193,7 @@ export const appLanguages = [
       "zh-Hant-TW": "繁體中文",
       "pt-PT": "Chinês (Tradicional)",
       "ro-RO": "Chineză (Tradicională)",
+      "zh-CN": "繁體中文",
     },
   },
   {
@@ -201,6 +206,7 @@ export const appLanguages = [
       "zh-Hant-TW": "葡萄牙語 (葡萄牙)",
       "pt-PT": "Português (Portugal)",
       "ro-RO": "Portugheză (Portugalia)",
+      "zh-CN": "葡萄牙语（葡萄牙）",
     },
   },
   {
@@ -213,6 +219,20 @@ export const appLanguages = [
       "zh-Hant-TW": "羅馬尼亞語",
       "pt-PT": "Romeno",
       "ro-RO": "Română",
+      "zh-CN": "罗马尼亚语",
+    },
+  },
+  {
+    code: "zh-CN",
+    label: {
+      "en-US": "Chinese (Simplified)",
+      "de-DE": "Chinesisch (Vereinfacht)",
+      "pt-BR": "Chinês (Simplificado)",
+      "fr-FR": "Chinois (Simplifié)",
+      "zh-Hant-TW": "簡體中文",
+      "pt-PT": "Chinês (Simplificado)",
+      "ro-RO": "Chineză (Simplificată)",
+      "zh-CN": "简体中文",
     },
   },
 ];
